@@ -1,6 +1,6 @@
 This is the index website.
 
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://github.com/itt-koeln/scientific-work/blob/main/font-awesome.css" rel="stylesheet">
 <header class="masthead">
     <div class="container">
         <div class="row align-items-center">
