@@ -3,7 +3,7 @@ layout: page
 title: Index
 nav_order: 1
 ---
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="scientific-work/templates/indexbanner.css" rel="stylesheet">
 <header class="masthead">
     <div class="container">
         <div class="row align-items-center">
