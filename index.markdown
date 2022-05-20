@@ -6,11 +6,6 @@ nav_order: 1
 
 <img src="/scientific-work/assets/sc-wo-banner.png" alt="Banner">
 
-<span class="fs-8">
-[Get Started!](https://itt-koeln.github.io/scientific-work/2-Introduction.html){: .btn }
-</span>
-
-
 <hr/>
 
 # Welcome!
