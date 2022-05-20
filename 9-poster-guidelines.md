@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 7. Figures
-nav_order: 8
+title: 8. Poster Guidelines
+nav_order: 9
 ---
