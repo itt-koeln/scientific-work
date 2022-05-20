@@ -1,4 +1,4 @@
 ---
-title: 2. Text Structure
-permalink:
+title: Text Structure
+permalink: https://itt-koeln.github.io/scientific-work/#2-text-structure
 ---
